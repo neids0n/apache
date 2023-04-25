@@ -1,6 +1,6 @@
-## 👤 bkp-aplicacoes.sh 
+## 🗜️ bkp-aplicacoes.sh 
 
-🗜️ Script para compactar determinada aplicação Apache em /var/www/html com a extensão .tar.gz
+Script para compactar determinada aplicação Apache em /var/www/html com a extensão .tar.gz
 
 ## ✔️ O script executa as seguintes ações:
 
