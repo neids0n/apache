@@ -19,5 +19,5 @@ then
 else
         echo "Houve um problema no servidor em $(date +%d-%m-%Y,%H:%M:%S) -> Requisicoes = $requisicoes -> Uso de memória = $memoria -> Carga de CPU = $CPU -> O status HTTP foi = $status_http" >> /var/log/monitoramento.log
         systemctl restart apache2
-        echo "Servidor reinicializado em $(date +%d-%m-%Y,%H:%M:%S)" >> /var/log/monitoramento.log
+        echo "Serviço reinicializado em $(date +%d-%m-%Y,%H:%M:%S)" >> /var/log/monitoramento.log
 fi
