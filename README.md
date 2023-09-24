@@ -5,13 +5,6 @@ Scripts para aplicações apache
 ##
 ##
 
-## 📌  usuarios-aplicacoes.sh 
-
-👤 Script para criação de usuário com acesso a determinada aplicação Apache em /var/www/html
-
-##
-##
-
 ## 📌 bkp-aplicacoes.sh 
 
 🗜️ Script para compactar determinada aplicação Apache em /var/www/html com a extensão .tar.gz
@@ -22,3 +15,10 @@ Scripts para aplicações apache
 ## 📌 monitoramento-http.sh 
 
 📈 Script para monitoramento de número de requisições do Apache, status HTTP, uso de memória e carga de CPU
+
+##
+##
+
+## 📌  usuarios-aplicacoes.sh 
+
+👤 Script para criação de usuário com acesso a determinada aplicação Apache em /var/www/html
